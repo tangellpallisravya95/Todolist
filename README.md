@@ -19,6 +19,6 @@ It's a beginner-friendly project designed to improve DOM manipulation, event han
 
 ##📸 overview
 
-![To-Do List App Screenshot]()
+![To-Do List App Screenshot](Todolist/images/output.png)
 
 
